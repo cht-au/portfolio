@@ -5,7 +5,6 @@ draft: false
 tags: ["Distributed Systems", "Machine Learning", "gRPC", "System Architecture"]
 categories: ["Projects"]
 github_link: "https://github.com/cht-au/FlightBowl"
-featured_image: "/images/dnn.webp"
 image: "/assets/images/dnn.webp"
 summary: "A distributed neural network training system utilizing an elastic, fault-tolerant Parameter Server architecture over gRPC."
 ---
